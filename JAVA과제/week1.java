@@ -29,7 +29,6 @@ public class week1 {
             member[i] = name;
         }
 
-        
         System.out.println("아기사자 명단을 최종적으로 출력합니다.");
         
         for(int j=0; j<member.length; j++){
