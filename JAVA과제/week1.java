@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA과제;
 
 import java.util.Scanner;
 
